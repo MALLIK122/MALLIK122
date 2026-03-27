@@ -37,6 +37,6 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://instagram.com/YOUR_USERNAME">Instagram</a> |
-  <a href="https://linkedin.com/in/YOUR_PROFILE">LinkedIn</a>
+  <a href="https://instagram.com/mallikarjun_k.s">Instagram</a> |
+  <a href="https://linkedin.com/in/[YOUR_PROFILE](https://www.linkedin.com/in/mallikarjun-k-s-81b473349/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKfOnq8ajQw%2BBorKPKCeMNw%3D%3D)">LinkedIn</a>
 </p>
