@@ -7,7 +7,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mallikarjun_k.s)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mallikarjun-k-s-81b47l/](https://www.linkedin.com/in/mallikarjun-k-s-81b473349/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKfOnq8ajQw%2BBorKPKCeMNw%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallikarjun-k-s-81b473349/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKfOnq8ajQw%2BBorKPKCeMNw%3D%3D))
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mallikarjuna74111@gmail.com)
 
