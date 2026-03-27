@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Cyber SEcurity Student at GM University, Davanagere  
+- 🎓 Cyber Security Student at GM University, Davanagere  
 - 💻 Interested in ML, Cybersecurity & Web Development  
 - 🌱 Currently learning advanced technologies  
 - ⚡ Fun fact: I love building unique projects  
