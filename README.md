@@ -1,98 +1,169 @@
-<h1 align="center">Hi 👋, I'm Mallikarjun K S</h1>
+# 💻 Tech Arsenal & Futuristic Stack
 
-<h3 align="center">
-Cyber Security Student | Full Stack Developer | AI Builder 🚀
-</h3>
+---
+
+## 🖥️ Programming Languages
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Cyber+Security+Explorer+🔐;Full+Stack+Developer+💻;AI+%26+ML+Project+Builder+🤖;Always+Learning+New+Things+🚀" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,bash,php" />
 </p>
 
 ---
 
-# 💫 About Me:
+## 🎨 Frontend Development
 
-- 🎓 Mallikarjun K S  
-- 🏫 2nd Year BTech in Cyber Security  
-- 📍 G M University, Davanagere  
-
-- 🔭 Currently building AI & Cyber Security Projects  
-- 🌱 Learning Ethical Hacking & Full Stack Development  
-- 💬 Ask me about HTML, CSS, JS, Python, Fedora, MongoDB  
-- ⚡ Fun fact: I love building futuristic tech projects 🚀
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vite" />
+</p>
 
 ---
 
-# 🌐 Connect With Me:
+## ⚙️ Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm,fastapi" />
+</p>
+
+---
+
+## 🗄️ Databases & Storage
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
+</p>
+
+---
+
+## ☁️ Cloud & Deployment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,netlify,docker,kubernetes" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning / AGI
 
 <p align="center">
 
-<a href="https://github.com/mallikarjunks">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python" />
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
+<br><br>
 
-<a href="https://instagram.com/YOUR-INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-00FF99?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Automation-00C853?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 💻 Tech Stack:
+## 🛡️ Cyber Security & Ethical Hacking
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,java,c,cpp,linux,git,vscode" />
+
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,docker" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Nmap-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Nikto-111111?style=for-the-badge&logo=gnu-bash&logoColor=green"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Metasploit-0277BD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hydra-222222?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/John_The_Ripper-B71C1C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQLMap-4A148C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/XSS-FF1744?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Network_Scanning-00897B?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 📊 GitHub Stats:
+## 🛠️ Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux,fedora,ubuntu,windows" />
+</p>
+
+---
+
+## 🎨 UI/UX & Creative Design
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,photoshop,canva,blender" />
+</p>
+
+---
+
+## 📱 Mobile & Cross Platform
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
+
+---
+
+## ⚡ DevOps & Automation
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mallikarjunks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,bash" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjunks&layout=compact&langs_count=8&theme=tokyonight"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/CI/CD-1976D2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Automation-00E676?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Linux_Server-263238?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak:
+## 🚀 Currently Exploring
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=mallikarjunks&theme=tokyonight"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-6200EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Quantum_Computing-00B0FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Web3-FF6D00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Blockchain-212121?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AR/VR-00ACC1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud_Security-3949AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Red_Team-FF1744?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Blue_Team-2979FF?style=for-the-badge"/>
+
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mallikarjunks&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-- 🚜 AgroSmart AI  
-- 🔐 Cyber Security Toolkit  
-- 🤖 AI Soil Prediction System  
-- 🌐 Portfolio Websites  
-- 📡 IoT Smart Mirror  
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mallikarjunks&label=Profile+Views&color=blueviolet&style=flat"/>
-</p>
-
-<h3 align="center">
-✨ Code. Break. Learn. Build Again. ✨
-</h3>
