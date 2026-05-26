@@ -2,7 +2,7 @@
 <h3 align="center">Cyber Security Student | Full Stack Developer | AI Builder 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=Cyber+Security+Explorer+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Project+Builder+%F0%9F%A4%96;Always+Learning+New+Things+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=Cyber+Security+Explorer+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -36,15 +36,7 @@
 # 💻 Tech Stack:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,java,c,cpp,linux,fedora,git,vscode" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mallikarjunks&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<img src="https://skillicons.dev/icons?i=html,  css,  js,  react,  nodejs,  python,  mongodb,  mysql,  java,  c,  cpp,  linux,  fedora,  git,  vscode" />
 </p>
 
 ---
