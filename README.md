@@ -45,19 +45,19 @@ Fun Fact:
 
 <p align="center">
 
-<a href="https://github.com/mallikarjunks">
+<a href="https://github.com/MALLIK122">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mallikarjun-k-s-81b473349">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-<a href="https://instagram.com/YOUR-INSTAGRAM">
+<a href="https://instagram.com/mallikarjun_k.s">
 <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:mallikarjuna74111@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
