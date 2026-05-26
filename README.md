@@ -201,7 +201,7 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Secure+%E2%80%A2+Innovate+%E2%80%A2+Repeat+⚡;Building+Futuristic+Projects+🚀;Cyber+Security+%2B+AI+Explorer+🔐" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Code+%E2%80%A2+Secure+%E2%80%A2+Innovate+%E2%80%A2+Repeat+%E2%9A%A1;Building+Futuristic+Projects+%F0%9F%9A%80;Cyber+Security+%2B+AI+Explorer+%F0%9F%94%90" alt="Typing SVG" />
 
 </div>
 
