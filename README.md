@@ -163,7 +163,7 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,linux,fedora,ubuntu,windows" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,linux,ubuntu,windows" />
 
 </div>
 
