@@ -8,6 +8,9 @@
 ---
 
 # 💫 About Me:
+Mallikarjun K S
+2nd Year Btech in CyberSecurity
+G M University Davanagere
 🔭 Currently building AI & Cyber Security Projects  
 🌱 Learning Ethical Hacking & Full Stack Development  
 💬 Ask me about HTML, CSS, JS, Python, Fedora, MongoDB  
