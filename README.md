@@ -33,24 +33,6 @@
 
 ---
 
-# 💻 Tech Stack:
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,  css,  js,  react,  nodejs,  python,  mongodb,  mysql,  java,  c,  cpp,  linux,  fedora,  git,  vscode" />
-</p>
-
----
-
-# 🔥 Featured Projects
-
-🚜 AgroSmart AI  
-🔐 Cyber Security Toolkit  
-🤖 AI Soil Prediction System  
-🌐 Portfolio & Full Stack Websites  
-📡 IoT Smart Mirror Projects
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mallikarjunks&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
