@@ -104,99 +104,103 @@ Fun Fact:
 
 ---
 
-## 🤖 AI / Machine Learning
+# 🤖 AI / Machine Learning
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_AI-0D1117?style=for-the-badge&logo=google&logoColor=4285F4"/>
 
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LangChain-00FF99?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=00FF99"/>
 
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
 
-</p>
+</div>
 
 ---
 
-## 🛡️ Cyber Security Tools
+# 🛡️ Cyber Security Tools
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,kali,bash" />
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,docker" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Nmap-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF00"/>
 
-<img src="https://img.shields.io/badge/Nikto-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nikto-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
 
-<img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=FF6600"/>
 
-<img src="https://img.shields.io/badge/Metasploit-0277BD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=0277BD"/>
 
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQLMap-4A148C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLMap-0D1117?style=for-the-badge&logoColor=A855F7"/>
 
-<img src="https://img.shields.io/badge/Hydra-212121?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/John_The_Ripper-B71C1C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/John_The_Ripper-0D1117?style=for-the-badge&logoColor=red"/>
 
-</p>
+</div>
 
 ---
 
-## 🛠️ Development Tools
+# 🛠️ Development Tools
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,linux,fedora,ubuntu,windows" />
-</p>
+
+</div>
 
 ---
 
-## 🎨 Design & Creative
+# 🎨 Design & Creative
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,photoshop,canva,blender" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=figma,photoshop,blender,canva" />
 
-## 🚀 Currently Exploring
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Agentic_AI-6200EA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cloud_Security-3949AB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Quantum_Computing-00B0FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Web3-FF6D00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AR/VR-00ACC1?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mallikarjunks&label=Profile+Views&color=blueviolet&style=flat"/>
-</p>
+# 🚀 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=for-the-badge&logoColor=A855F7"/>
+
+<img src="https://img.shields.io/badge/Cloud_Security-0D1117?style=for-the-badge&logoColor=3B82F6"/>
+
+<img src="https://img.shields.io/badge/Quantum_Computing-0D1117?style=for-the-badge&logoColor=00B0FF"/>
+
+<img src="https://img.shields.io/badge/Web3-0D1117?style=for-the-badge&logoColor=FF6D00"/>
+
+<img src="https://img.shields.io/badge/AR/VR-0D1117?style=for-the-badge&logoColor=00ACC1"/>
+
+</div>
 
 ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Secure+%E2%80%A2+Innovate+%E2%80%A2+Repeat+⚡;Building+Futuristic+Projects+🚀;Cyber+Security+%2B+AI+Explorer+🔐" />
+
+</div>
 
 <h3 align="center">
 ⚡ Code • Secure • Innovate • Repeat ⚡
