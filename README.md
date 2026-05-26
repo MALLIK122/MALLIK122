@@ -132,13 +132,11 @@ Fun Fact:
 
 <img src="https://user-images.githubusercontent.com/74038190/212750314-79c3f280-7b65-4f2b-8b5d-8c5c6fdb7a8b.gif" width="100%">
 
-# 📊 GitHub Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MALLIK122&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mallikarjunks&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALLIK122&layout=compact&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjunks&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
