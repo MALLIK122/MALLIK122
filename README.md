@@ -41,18 +41,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mallikarjunks&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mallikarjunks&theme=tokyonight&hide_border=false" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjunks&theme=tokyonight&hide_border=false&layout=compact" />
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
