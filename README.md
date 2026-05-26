@@ -34,9 +34,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mallikarjunks&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
-<p align="center">
 ✨ “Code. Break. Learn. Build Again.” ✨
 </p>
