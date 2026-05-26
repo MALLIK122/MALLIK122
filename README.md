@@ -134,9 +134,9 @@ Fun Fact:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mallikarjunks&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MALLIK122&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjunks&layout=compact&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALLIK122&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
