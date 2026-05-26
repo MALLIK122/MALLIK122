@@ -49,7 +49,7 @@ Fun Fact:
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/mallikarjun-k-s-81b473349">
+<a href="https://linkedin.com/in/www.linkedin.com/in/Mallikarjun K S">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
