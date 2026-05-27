@@ -54,10 +54,6 @@ Fun Fact:
 
 <p align="center">
 
-<a href="https://github.com/MALLIK122">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
 <a href="https://linkedin.com">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
@@ -73,8 +69,6 @@ Fun Fact:
 </p>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212750314-79c3f280-7b65-4f2b-8b5d-8c5c6fdb7a8b.gif" width="100%">
 
 # 💻 Tech Arsenal
 
