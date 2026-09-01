@@ -4,8 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Mallikarjun K S</h1>
 
-<h3 align="center">
-🔐 Cyber Security Student | 💻 Full Stack Developer | 🤖 AI Explorer
+<h3 align="center"> Cyber Security Student | Full Stack Developer | AI Explorer | Freelancer
 </h3>
 
 <p align="center">
@@ -118,17 +117,6 @@ Fun Fact:
 <img src="https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/John_The_Ripper-0D1117?style=for-the-badge"/>
-
-</div>
-
-
----
-
-# 📈 GitHub Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MALLIK122&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
